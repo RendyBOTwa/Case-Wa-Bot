@@ -17,7 +17,7 @@
 
 ## Cloning this repo
 ```cmd
-> git clone https://github.com/LoL-Human/Case-WA-Bot.git
+> git clone https://github.com/RendyBOTwa/Case-WA-Bot.git
 > cd Case-WA-Bot
 ```
 
