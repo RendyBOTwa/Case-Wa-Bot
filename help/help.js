@@ -1,5 +1,5 @@
 const help = (prefix) => {
-    return `╭╌╌╌❐𝐒𝐀𝐍𝐒𝐋𝐈𝐍𝐄-𝐁𝐎𝐓.  
+    return `╭╌╌╌RESBOTZ.  
 │Prefix : ${prefix}
 │Host   : Phone
 ╰╌╌╌╌╌╌╌╌╌╌╌╌
@@ -336,7 +336,7 @@ const help = (prefix) => {
 ╭╌╌╌╌╌❐ TQTO ❐
 │✕LOLHUMAN (credit)
 │
-│✕SANSLINE
+│RendyBOTwa
 ╰───「 SANSLINE BOT 」`
 }
 exports.help = help
