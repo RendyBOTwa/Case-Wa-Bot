@@ -108,12 +108,4 @@ Edit the required value in `config.json`. You can get the api key at [`LoL Human
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Fxc7`](https://github.com/Fxc7)
-* [`Pais`](https://github.com/Paiiss)
-* [`MhankBarBar`](https://github.com/MhankBarBar)
-* [`Lindow`](https://github.com/lindow666)
-* [`Mat`](https://github.com/mamet8)
-* [`Riyan`](https://github.com/shitara999)
-* [`Sofyan`](https://github.com/SofyanAMV09)
-* [`Riz`](https://github.com/riznih)
-* [`Paul`]
+
